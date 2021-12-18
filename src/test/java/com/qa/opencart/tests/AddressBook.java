@@ -7,6 +7,6 @@ public class AddressBook {
 	String address;
   
 	public void addAddress() {
-		System.out.println("address is displayed")
+		System.out.println("address is displayed");
 	}
 }
